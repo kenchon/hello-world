@@ -1,2 +1,4 @@
 # hello-world
-hello world repository
+Hi Humans!
+
+I'm excited with World Cup held in Moscow.
